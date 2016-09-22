@@ -20,7 +20,7 @@ background-size: cover;
 }
 
 h1{
-font-family: "Century Gothic",;
+font-family: "Century Gothic", sans-serif;
 color: Blue;
 margin-left: 10px;
 font-size: 30px;
@@ -28,7 +28,7 @@ text-align: left;
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
+font-family: "Century Gothic", sans-serif;
 color: Blue;
 margin-left: 10px;
 font-size: 20px;
@@ -36,7 +36,7 @@ text-align: left;
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: "Century Gothic", sans-serif;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
