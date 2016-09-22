@@ -64,9 +64,9 @@ padding-top: 4px;
 li{
 	float: left;
 	list-style-type: none;
-	padding: 30px;
+	padding: 10px;
 	background: orange;
-	margin: 3px;
+	margin: 20px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
 
