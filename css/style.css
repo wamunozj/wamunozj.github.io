@@ -73,7 +73,7 @@ li{
 	margin: 3px;
 	border-radius: 5px;
 	box-shadow: 0 0 10px white inset;
-
+    cursor: pointer;
 
 }
 
