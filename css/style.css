@@ -68,7 +68,7 @@ display: inline-block;
 li{
 	float: right;
 	list-style-type: none;
-	padding: 15px;
+	padding: 10px;
 	background: orange;
 	margin: 3px;
 	border-radius: 5px;
