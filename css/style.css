@@ -66,8 +66,8 @@ padding-top: 4px;
 
 li{
 	float: right;
-	list-style-type: square;
-	padding: 20px;
+	list-style-type: none;
+	padding: 80px;
 	background: orange;
 	margin: 3px;
 	border-radius: 5px;
