@@ -61,7 +61,8 @@ border-radius: 5px;
 }
 ul{
 margin: auto;
-padding-top: 20px;
+padding-top: 3px;
+display: inline-block;
 }
 
 li{
