@@ -96,7 +96,7 @@ aside{
 
 footer{
 width: 1000px;
-height: 70px;
+height: 30px;
 background: Blue;
 float: left;
 margin-top: 20px;
@@ -106,7 +106,7 @@ margin-bottom: 20px;
 
 p{
 
-	font-size: 15px;
+	font-size: 5px;
 	font-weight: bolder;
 	line-height: 24px;
 	padding: 10px;
