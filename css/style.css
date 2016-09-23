@@ -24,7 +24,7 @@ background-size: cover;
 
 h1{
 font-family: "Century Gothic", sans-serif;
-color: Blue;
+color: #0B4568;
 margin-left: 10px;
 font-size: 30px;
 text-align: left; 
@@ -55,7 +55,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: blue;
+background: #0B4568;
 border-radius: 5px;
 
 }
@@ -87,7 +87,7 @@ section{
 footer{
 width: 1000px;
 height: 30px;
-background: #151515;
+background: #0B4568;
 float: left;
 margin-top: 20px;
 border-radius: 5px;
