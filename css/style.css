@@ -65,7 +65,7 @@ padding-top: 4px;
 }
 
 li{
-	float: left;
+	float: center;
 	list-style-type: none;
 	padding: 10px;
 	background: orange;
