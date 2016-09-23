@@ -14,7 +14,7 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo ok.jpg);
+background-image: url(../img/fondook.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -96,7 +96,7 @@ aside{
 
 footer{
 width: 1000px;
-height: 30px;
+height: 70px;
 background: Blue;
 float: left;
 margin-top: 20px;
@@ -106,7 +106,7 @@ margin-bottom: 20px;
 
 p{
 
-	font-size: 5px;
+	font-size: 15px;
 	font-weight: bolder;
 	line-height: 24px;
 	padding: 10px;
